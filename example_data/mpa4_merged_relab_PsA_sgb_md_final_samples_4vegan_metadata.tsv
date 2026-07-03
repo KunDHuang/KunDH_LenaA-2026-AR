@@ -1,0 +1,29 @@
+sample	patient-a_partner-b	time_point	diagnose	collection_date	difference_to_first_sample (in months)	RF	ACPA	anti-CD74_qualitative	HLA-B27	gender	age	MTX_treatment	MTX_response	MTX_response_subclustering	other_therapy	clustering_other_therapy
+100_5150a	5150a	initial	PsA			neg	neg	neg		m	49	MTX	inefficiency	inefficiency	anti-IL17A	biologics
+285_5792a	5792a	initial	PsA	2021/7/20		neg	neg	neg	neg	f	54	MTX	inefficiency	inefficiency	anti-IL23	biologics
+010_4671a	4671a	initial	PsA			neg	neg	neg		w	50	MTX	inefficiency	inefficiency	anti-IL17A	biologics
+026_4858a	4858a	initial	PsA	2019/7/23		neg	neg	neg		m	52	MTX	inefficiency	inefficiency	anti-IL17A	biologics
+093_5162a	5162a	initial	PsA	2020/6/1		neg	neg			m	44	MTX	inefficiency	inefficiency	anti-IL17A	biologics
+051_4967a	4967a	initial	PsA	2019/11/27		neg	neg	neg	neg	w	43	MTX	inefficiency	inefficiency	anti-IL17A	biologics
+291_5865a	5865a	initial	PsA			neg	neg	pos		m	66	MTX	inefficiency	inefficiency	anti-IL17	biologics
+179_5504a	5504a	initial	PsA			neg	neg	neg	neg	m	25	MTX	inefficiency	inefficiency	anti-TNF	biologics
+198_5605a	5605a	initial	PsA	2021/3/22		neg	neg	pos	neg	m	39	MTX	inefficiency	inefficiency	anti-IL17A	biologics
+147_5367a	5367a	initial	PsA	2020/9/8		neg	neg	neg	neg	m	49	MTX	inefficiency	inefficiency	anti-IL17A	biologics
+195_5610a	5610a	initial	PsA	2021/3/15		pos	neg	neg	neg	m	56	MTX	inefficiency	inefficiency		
+150_5340a	5340a	initial	PsA			neg	neg	neg	neg	m	27	MTX	inefficiency	inefficiency	anti-TNF	biologics
+008_4655a	4655a	initial	PsA	2018/12/10		neg	neg	neg	neg	w	47	MTX	inefficiency	inefficiency	anti-IL17A	biologics
+056_4978a	4978a	initial	PsA	2019/12/2		neg	neg	neg	neg	w	61	MTX	inefficiency	inefficiency	anti-IL17A	biologics
+085_5110a	5110a	initial	PsA	2020/3/24		neg	neg	pos	pos	m	79	MTX	remission	remission		
+284_5789a	5789a	initial	PsA			neg	neg	neg	neg	f	65	MTX	remission	partial_response		
+234_5779a	5779a	initial	PsA			neg	neg	neg	neg	m	50	MTX	remission	remission		
+149_5373a	5373a	initial	PsA			neg	neg	neg	neg	f	57	MTX	remission	partial_response		
+007_4640a	4640a	initial	PsA	2018/11/24		neg	neg	pos	neg	w	54	MTX	remission	partial_response	Apremilast	Apremilast
+229_5764a	5764a	initial	PsA	2021/6/8		neg	neg	pos	neg	f	68	MTX	remission	partial_response		
+LA_RV_355_5908a_S22	5908a	initial	PsA			neg	neg		neg	m	47	MTX	remission	partial_response		
+032_4883a	4883a	initial	PsA	2019/8/12		neg	neg	neg		m	60	MTX	remission	partial_response		
+LA_RV_373_5965a_S40	5965a	initial	PsA			neg	neg			f	55	MTX	remission	partial_response		
+185_5554a	5554a	initial	PsA	2021/2/1		neg	neg	pos	neg	m	59	MTX	remission	partial_response	anti-IL17A	biologics
+218_5723a	5723a	initial	PsA			neg	neg	neg	neg	f	29	MTX	remission	partial_response		
+128_5318a	5318a	initial	PsA	2020/8/17		neg	neg	neg	neg	m	68	MTX	remission	partial_response		
+223_5732a	5732a	initial	PsA			neg	neg	neg	neg	f	55	MTX	remission	partial_response		
+213_5692a	5692a	initial	PsA	2021/5/3		neg	neg	neg	neg	m	53	MTX	remission	partial_response		

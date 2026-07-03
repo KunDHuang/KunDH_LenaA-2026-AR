@@ -2,7 +2,7 @@
 This repo hosts codes used in a Rheuma-Vor microbiome study by Kun D.H. and Lena A. et al.,
 
 ### Random Forest Machine Learning with Leave-One-Out Cross Validation
-The modeling wrap-up script `rf_mtx_response_pipeline.py` can be found in the `scripts` folder and the command line usage is shown as below: 
+The modeling wrapper script `rf_mtx_response_pipeline.py` can be found in the `scripts` folder and the command line usage is shown as below: 
 ```bash
 usage: rf_mtx_response_pipeline.py [-h] [--data-dir DATA_DIR] [--out-dir OUT_DIR] [--groups {RA,PsA} [{RA,PsA} ...]]
                                    [--feature-sets {pathway_diversity,pathway_only,species_diversity,combined_pathway_species_diversity} [{pathway_diversity,pathway_only,species_diversity,combined_pathway_species_diversity} ...]]
@@ -45,3 +45,13 @@ optional arguments:
 ```
 
 ### PERMANOVA Test with Adjustment for Covariables 
+The PERMANOVA test was conducted based on the core formula of function `adonis2` from R package `vegan`:
+
+*To adjust the effects from covariables, covariables were first sequencially placed before main variable.*
+
+```adonis2(matrix ~ co_var1 + co_var2 + main_var, data = metadata, permutations = 999)```
+`co_var1`: The 1st covariable to be controlled, i.e., age.
+`co_var2`: The 2nd covariable to be controlled, i.e., enthesitis.
+`main_var`: The main variable to be assessed, i.e., MTX response.
+
+The wrapper R script `permanova_pcoa.R` can be found in the folder `example_data` 

@@ -1,0 +1,30 @@
+sample	patient-a_partner-b	time_point	diagnose	collection_date	difference_to_first_sample (in months)	RF	ACPA	anti-CD74_qualitative	HLA-B27	gender	age	MTX_treatment	MTX_response	MTX_response_subclustering	other_therapy	clustering_other_therapy
+029_4870a	4870a	initial	RA			pos	pos	neg		w	36	MTX	remission	remission		
+046_4949a	4949a	initial	RA	2019/10/25	0	pos	pos		neg	w	52	MTX	remission	remission		
+054_4976a	4976a	initial	RA	2019/12/2		neg	neg	neg	neg	m	61	MTX	remission	remission		
+065_5037a	5037a	initial	RA	2020/2/10		neg	neg		neg	w	43	MTX	inefficiency	inefficiency	anti-TNF (Etanercept)	biologics
+083_5091a	5091a	initial	RA	2020/3/18		neg	pos			m	50	MTX	inefficiency	inefficiency		
+088_5114a	5114a	initial	RA	2020/3/31		pos	pos	neg		w	59	MTX	remission	remission		
+113_5241a	5241a	initial	RA			pos	pos	pos		f	30	MTX	remission	remission		
+115_5235a	5235a	initial	RA	2020/7/13		pos	pos	neg		m	53	MTX	remission	remission		
+160_5453a	5453a	initial	RA	2020/11/15		pos	pos	neg	neg	m	31	MTX	inefficiency	partial_response		
+178_5685a	5685a	initial	RA			neg	neg	neg		f	80	MTX	remission	remission		
+180_5521a	5521a	initial	RA	2021/1/18		pos	pos	neg	neg	w	49	MTX	inefficiency	partial_response		
+186_5559a	5559a	initial	RA	2021/2/14		pos	pos	neg		m	62	MTX	remission	remission		
+188_5571a	5571a	initial	RA	2021/2/15		pos	pos	neg		f	69	MTX	remission	remission		
+197_5625a	5625a	initial	RA	2021/3/16		pos	pos	pos		m	58	MTX	inefficiency	inefficiency	JAKi	JAKi
+199_5632a	5632a	initial	RA	2021/3/22		pos	pos			m	58	MTX	remission	remission		
+203_5662a	5662a	initial	RA			neg	neg	neg	neg	m	54	MTX	inefficiency	inefficiency		
+207_5670a	5670a	initial	RA			pos	pos	pos	neg	f	72	MTX	remission	remission		
+220_5717a	5717a	initial	RA	2021/5/17		pos	pos	neg	neg	m	35	MTX	remission	remission		
+222_5735a	5735a	initial	RA			pos	pos	neg		f	62	MTX	remission	remission		
+225_5747a	5747a	initial	RA			pos	pos	neg	neg	f	60	MTX	inefficiency	partial_response		
+227_5749a	5749a	initial	RA			pos	neg	neg	neg	m	51	MTX	remission	remission		
+228_5756a	5756a	initial	RA	2021/6/7		pos	pos	neg		f	54	MTX	remission	remission		
+289_5851a	5851a	initial	RA			pos	pos	neg		m	47	MTX	remission	remission		
+293_5828a	5828a	initial	RA			pos	pos	neg		f	46	MTX	inefficiency	inefficiency	Etanercept (anti-TNF)	biologics
+LA_RV_352_5899a_S19	5899a	initial	RA			pos	neg			f	47	MTX	inefficiency	inefficiency		
+LA_RV_372_5944a_S39	5944a	initial	RA			pos	pos			m	19	MTX	remission	remission		
+LA_RV_382_5978a_S49	5978a	initial	RA			neg	neg			m	61	MTX	remission	remission		
+LA_RV_389_6006a_S56	6006a	initial	RA			pos	pos			f	35	MTX	inefficiency	partial_response		
+LA_RV_395_6024a_S62	6024a	initial	RA			neg	neg			f	61	MTX	remission	remission		
