@@ -54,4 +54,4 @@ The PERMANOVA test was conducted based on the core formula of function `adonis2`
 `co_var2`: The 2nd covariable to be controlled, i.e., enthesitis.
 `main_var`: The main variable to be assessed, i.e., MTX response.
 
-The wrapper R script `permanova_pcoa.R` can be found in the folder `example_data` 
+The wrapper R script `permanova_pcoa.R` can be found in the folder `scripts` and mock data can be found in the folder `example_data` 
