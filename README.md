@@ -1,7 +1,8 @@
-# LenaA_KunDH-2026-AR
-This repo hosts codes used in a Rheuma-Vor microbiome study by Kun D.H. and  Amend L. et al.,
+# KunDH_LenaA-2026-AR
+This repo hosts codes used in a Rheuma-Vor microbiome study by Kun D.H. and Lena A. et al.,
 
-### Random Forest Machine Learning with Leave-One-Out Cross Validation 
+### Random Forest Machine Learning with Leave-One-Out Cross Validation
+The modeling wrap-up script `rf_mtx_response_pipeline.py` can be found in the `scripts` folder and the command line usage is shown as below: 
 ```bash
 usage: rf_mtx_response_pipeline.py [-h] [--data-dir DATA_DIR] [--out-dir OUT_DIR] [--groups {RA,PsA} [{RA,PsA} ...]]
                                    [--feature-sets {pathway_diversity,pathway_only,species_diversity,combined_pathway_species_diversity} [{pathway_diversity,pathway_only,species_diversity,combined_pathway_species_diversity} ...]]
