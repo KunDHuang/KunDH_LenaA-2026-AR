@@ -43,6 +43,7 @@ optional arguments:
   --overwrite           Overwrite completed runs.
   --no-resume           Do not skip completed runs.
 ```
+Please visit our [tutorial](https://github.com/Pavaret/MicrobiomeRFBench) for step-by-step executions.
 
 ### PERMANOVA Test with Adjustment for Covariables 
 The PERMANOVA test was conducted based on the core formula of function `adonis2` from R package `vegan`:
